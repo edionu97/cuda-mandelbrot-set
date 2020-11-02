@@ -1,0 +1,11 @@
+{
+  "maxIterations": 1000,
+  "generatedImage": {
+    "imageWidth": 1920,
+    "imageHeight": 1080,
+    "location": "results/image.png"
+  },
+  "cuda": {
+    "deviceName": "GeForce GTX 1070"
+  }
+}
